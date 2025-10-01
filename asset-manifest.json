@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/la-cabina/static/css/main.a17a32f7.css",
+    "main.js": "/la-cabina/static/js/main.93c06ecc.js",
+    "static/js/453.2165f949.chunk.js": "/la-cabina/static/js/453.2165f949.chunk.js",
+    "index.html": "/la-cabina/index.html",
+    "main.a17a32f7.css.map": "/la-cabina/static/css/main.a17a32f7.css.map",
+    "main.93c06ecc.js.map": "/la-cabina/static/js/main.93c06ecc.js.map",
+    "453.2165f949.chunk.js.map": "/la-cabina/static/js/453.2165f949.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a17a32f7.css",
+    "static/js/main.93c06ecc.js"
+  ]
+}
