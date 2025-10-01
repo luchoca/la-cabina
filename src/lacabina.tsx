@@ -167,7 +167,7 @@ const CoworkLanding = () => {
           <div className="flex justify-between items-center h-20">
             <div className="flex items-center space-x-3">
               <div className={`w-16 h-16 ${currentTheme.icon} rounded-2xl flex items-center justify-center shadow-lg border-2 border-white/80 hover:scale-105 transition-transform duration-300`}>
-                <img src="/logo-cabina.jpeg" alt="La Cabina logo" className="w-14 h-14 object-contain drop-shadow-lg transition-transform duration-300" />
+                <img src={process.env.PUBLIC_URL + "/logo-cabina.jpeg"} alt="La Cabina logo" className="w-14 h-14 object-contain drop-shadow-lg transition-transform duration-300" />
               </div>
               <span className={`text-2xl font-bold ${currentTheme.text}`}>
                 LA CABINA
